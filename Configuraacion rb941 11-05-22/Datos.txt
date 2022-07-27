@@ -1,0 +1,26 @@
+-CODIGO PERSONAL: 01010101
+
+
+- indentity segun serial
+-Activar Wifi
+-asignar wlan a bridge
+-Resetear interfases ethernet
+-carga queue basico y cambia a postrouting a down y prerouting a up
+-regla para acceso remoto
+-corrigue queue tree y type
+-script de reinicio
+-carga script para tickets
+-borrar scripts
+-CARGA PLANTILLA ZONA WIFI
+-CONEXION REMOTA
+-cargar sntp cliente: 
+
+	   server 0.south-america.pool.ntp.org
+	   server 1.south-america.pool.ntp.org
+	   server 2.south-america.pool.ntp.org
+	   server 3.south-america.pool.ntp.org
+
+
+-crear codigo de acceso
+-Crear usuario y clave de acceso
+-cargar tickets
